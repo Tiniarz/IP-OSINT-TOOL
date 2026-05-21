@@ -26,4 +26,5 @@ The application functions as a static execution broker. Instead of importing sub
 The framework relies on a rigid local directory tree. Sub-scripts must be placed within the dedicated execution package folder relative to the orchestrator file path.
 
 ## Screenshots of IP OSINT TOOLS
-![Alt Text](https://raw.githubusercontent.com/username/repository/media/Screenshot2026-05-21161425.png)
+![Alt Text](../media/Screenshot2.png)
+![Alt Text](../media/Screenshot1.png)
